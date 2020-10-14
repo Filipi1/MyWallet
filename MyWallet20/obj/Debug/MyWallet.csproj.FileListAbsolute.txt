@@ -1,0 +1,37 @@
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe.config
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\Windows.Forms.HintTextBox.dll
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\Windows.Forms.HintTextBox.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.JanelaPrincipal.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Properties.Resources.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.SetupForm.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.GenerateResource.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.CopyComplete
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csprojAssemblyReference.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Updates.resources
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csprojAssemblyReference.cache
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.JanelaPrincipal.resources
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.SetupForm.resources
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Updates.resources
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.GenerateResource.cache
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.exe
+E:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.pdb
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csprojAssemblyReference.cache
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.JanelaPrincipal.resources
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.SetupForm.resources
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Updates.resources
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.GenerateResource.cache
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.exe
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.pdb
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe.config
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\bin\Debug\MyWallet.pdb
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\bin\Debug\Windows.Forms.HintTextBox.dll
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\bin\Debug\Windows.Forms.HintTextBox.pdb
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Properties.Resources.resources
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.CoreCompileInputs.cache
+D:\HD EXTERNO\VStudio Projetos\MyWallet20\MyWallet20\obj\Debug\MyWallet.csproj.CopyComplete

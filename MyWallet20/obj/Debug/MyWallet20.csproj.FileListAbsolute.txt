@@ -1,0 +1,10 @@
+c:\users\filipe braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.csprojAssemblyReference.cache
+c:\users\filipe braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.csproj.GenerateResource.cache
+c:\users\filipe braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet20.MainScreen.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe.config
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Debug\MyWallet.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.Properties.Resources.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Debug\MyWallet.pdb

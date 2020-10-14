@@ -1,0 +1,14 @@
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Release\MyWallet.exe.config
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Release\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Release\MyWallet.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Release\Windows.Forms.HintTextBox.dll
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\bin\Release\Windows.Forms.HintTextBox.pdb
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.csprojAssemblyReference.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet20.JanelaPrincipal.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.Properties.Resources.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.SetupForm.resources
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.csproj.GenerateResource.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.csproj.CopyComplete
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.exe
+C:\Users\Filipe Braga\source\repos\MyWallet20\MyWallet20\obj\Release\MyWallet.pdb
